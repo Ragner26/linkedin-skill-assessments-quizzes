@@ -266,7 +266,7 @@ E. M4A
 
 - [ ] Premiere will insert white to fill the needed handles.
 - [ ] Premiere will insert black to fill the needed handles.
-- [ ] There is not enough media (handles) to cover the duration of the transition.
+- [x] There is not enough media (handles) to cover the duration of the transition.
 - [ ] The transition is automatically shortened to use only the available media and the area under the diagonal lines will have no transitions applied.
 
 #### Q34. Your project has several sequences that are no longer needed. How would you use the Project Manager to produce a new version of the project that excludes the unwanted sequences?
@@ -279,7 +279,7 @@ E. M4A
 #### Q35. You want to take a partial clip that's used in your Timeline and send it to After Effects for additional processing using Dynamic Link. Which method best accomplishes this?
 
 - [ ] Select the clip in the Timeline and choose File > Adobe Dynamic Link > Import After Effects Composition.
-- [ ] Select the clip in the Timeline and choose File > Adobe Dynamic Link > Replace with After Effects Composition.
+- [x] Select the clip in the Timeline and choose File > Adobe Dynamic Link > Replace with After Effects Composition.
 - [ ] Select the clip in the Timeline and choose File > Adobe Dynamic Link > New After Effects Composition.
 - [ ] Select the clip in the Timeline and choose Edit > Copy. Switch to After Effects and choose Edit > Paste.
 
@@ -289,7 +289,7 @@ E. M4A
 
 - [ ] Hue vs. Saturation
 - [ ] RGB Curves
-- [ ] Luma vs. Saturation
+- [x] Luma vs. Saturation
 - [ ] Hue vs. Luma
 
 #### Q37. Which is a new graphic layer type? (Select three items.)
@@ -304,7 +304,7 @@ E. Ellipse
 
 - [ ] A, B, C
 - [ ] A, C, E
-- [ ] B, C, E
+- [x] B, C, E
 - [ ] B, D, E
 
 #### Q38. Which option can create a color field that automatically adjusts size as you add or subtract from a text layer?
@@ -313,7 +313,7 @@ E. Ellipse
 
 - [ ] Choose Fill from the Appearance controls.
 - [ ] Choose Stroke from the Appearance controls.
-- [ ] Choose Background from the Appearance controls.
+- [x] Choose Background from the Appearance controls.
 - [ ] Choose Shadow from the Appearance controls.
 
 #### Q39. If you want to lighten just the darkest areas of an image, which slider should you adjust in the Lumetri effect?
@@ -321,14 +321,14 @@ E. Ellipse
 - [ ] Shadows
 - [ ] Contrast
 - [ ] Midtones
-- [ ] Blacks
+- [x] Blacks
 
 #### Q40. Looking at the histogram below, which single adjustment slider could create this change?
 
 ![image](images/010.png)
 
 - [ ] Blacks
-- [ ] Contrast
+- [x] Contrast
 - [ ] Whites
 - [ ] Exposure
 
@@ -336,19 +336,19 @@ E. Ellipse
 
 - [ ] Sequence
 - [ ] File
-- [ ] Edit
+- [x] Edit
 - [ ] Clip
 
 #### Q42. Which adjustment can you use to quickly convert log footage using recommended settings by a camera manufacturer?
 
 - [ ] Creative Look
 - [ ] Faded Film
-- [ ] Input LUT
+- [x] Input LUT
 - [ ] Intensity
 
 #### Q43. Which Audio Mixer automation mode allows an automation to return to the previous state after any adjustments are made?
 
-- [ ] Touch
+- [x] Touch
 - [ ] Latch
 - [ ] Write
 - [ ] Read
@@ -356,7 +356,7 @@ E. Ellipse
 #### Q44. You want Premiere Pro to create a second instance of your media files and add an additional version at a draft resolution. Which option works best in the ingest settings?
 
 - [ ] Transcode
-- [ ] Copy and Create Proxies
+- [x] Copy and Create Proxies
 - [ ] Create Proxies
 - [ ] Copy
 
@@ -365,7 +365,7 @@ E. Ellipse
 - [ ] Convert Image Sequences to Clips
 - [ ] Convert After Effects Compositions to Clips
 - [ ] Include Preview Files
-- [ ] Consolidate and Transcode
+- [x] Consolidate and Transcode
 
 #### Q46. Which option is enabled to affect the view of the audio waveforms as shown below?
 
@@ -373,12 +373,12 @@ E. Ellipse
 
 - [ ] Show Audio Time Units
 - [ ] Rectified Audio Waveform
-- [ ] Large Audio Waveforms
+- [x] Large Audio Waveforms
 - [ ] Logarithmic Keyframe Scaling
 
 #### Q47. You want to float the History panel independently to position it on another monitor as a floating window. Which option in the panel's submenu should you select?
 
-- [ ] Undock Panel
+- [x] Undock Panel
 - [ ] Undock Frame
 - [ ] Maximize Panel
 - [ ] Maximize Frame
